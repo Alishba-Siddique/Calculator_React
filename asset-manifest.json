@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculator_React/static/css/main.ee0b8a37.css",
+    "main.js": "/Calculator_React/static/js/main.873bbeb3.js",
+    "static/media/moon.png": "/Calculator_React/static/media/moon.0160332f0a28a23a0f25.png",
+    "static/media/sun.png": "/Calculator_React/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/Calculator_React/index.html",
+    "main.ee0b8a37.css.map": "/Calculator_React/static/css/main.ee0b8a37.css.map",
+    "main.873bbeb3.js.map": "/Calculator_React/static/js/main.873bbeb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0b8a37.css",
+    "static/js/main.873bbeb3.js"
+  ]
+}
